@@ -1,8 +1,8 @@
 const button = document.body.querySelector('.button')
 
 function check () {
-    window.alert('nothing wrong, actually everything\'s perfect')
-    document.body.querySelector('h1').style.color = 'blue'
+    document.body.querySelector('h1').style.color = 'blue';
+    window.alert('nothing\'s wrong, actually everything\'s perfect')
 }
 
 button.addEventListener('click', check)

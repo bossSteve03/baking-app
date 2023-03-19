@@ -1,0 +1,3 @@
+-Our goal is to bring baking recipes to bakers with ease. Whether you're a newbie or an old-timer there's no reason you won't be able to find a new recipe or even add one of your own to our public list!
+-Become a publisher and share your recipes with the public.
+-Encapsulate yourself in baking and find something to bake today with our 'TRY ME!' button that generates a recipe at random.
